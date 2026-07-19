@@ -15,7 +15,7 @@ El dataset `oecd_city_economy.csv` incluye 30 regsitros por ciudad en distintos 
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([(https://colab.research.google.com/drive/1LAJ_jDR7885yCc4N7T6AReClXA9WbdQO?usp=sharing)](https://github.com/fernandacastiblanco/mobility_economy_2024/blob/91d705580fc8263f78e4898ba68ccee461a55bbe/S5%20ladb_mobility_economy_project_student.ipynb)
+[![Open In Colab]([(https://colab.research.google.com/github/fernandacastiblanco/mobility_economy_2024/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)](https://github.com/fernandacastiblanco/mobility_economy_2024/blob/91d705580fc8263f78e4898ba68ccee461a55bbe/S5%20ladb_mobility_economy_project_student.ipynb)
 
 O:
 
